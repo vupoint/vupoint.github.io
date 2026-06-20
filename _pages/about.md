@@ -14,7 +14,7 @@ toc: true
 
 # Companies
 - H---------- (2019.05 ~ )
-- N-- (2014.01 ~ 2019.05)
+- NHN (2014.01 ~ 2019.05)
 
 ### Open Source
 {% include gallery id="haste_logo" %}
